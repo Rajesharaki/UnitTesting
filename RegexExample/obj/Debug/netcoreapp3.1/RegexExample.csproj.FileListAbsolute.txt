@@ -1,0 +1,13 @@
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\bin\Debug\netcoreapp3.1\RegexExample.exe
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\bin\Debug\netcoreapp3.1\RegexExample.deps.json
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\bin\Debug\netcoreapp3.1\RegexExample.runtimeconfig.json
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\bin\Debug\netcoreapp3.1\RegexExample.runtimeconfig.dev.json
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\bin\Debug\netcoreapp3.1\RegexExample.dll
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\bin\Debug\netcoreapp3.1\RegexExample.pdb
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\obj\Debug\netcoreapp3.1\RegexExample.csprojAssemblyReference.cache
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\obj\Debug\netcoreapp3.1\RegexExample.AssemblyInfoInputs.cache
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\obj\Debug\netcoreapp3.1\RegexExample.AssemblyInfo.cs
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\obj\Debug\netcoreapp3.1\RegexExample.csproj.CoreCompileInputs.cache
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\obj\Debug\netcoreapp3.1\RegexExample.dll
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\obj\Debug\netcoreapp3.1\RegexExample.pdb
+C:\Users\rajes\OneDrive\Desktop\BridgeLabzProjects\RegexExample\RegexExample\obj\Debug\netcoreapp3.1\RegexExample.genruntimeconfig.cache
